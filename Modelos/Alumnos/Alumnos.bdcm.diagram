@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<minimalLanguageDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Alumnos">
+  <modelRootMoniker Name="/Alumnos" />
+  <nestedChildShapes>
+    <entityShape Id="6aa1028c-4c33-4b7c-a4fe-f99f4b3308b3" absoluteBounds="1.375, 0.625, 1.5, 1.59568359375">
+      <entityMoniker name="Modelos.Alumnos.Alumno" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a0f68009-b201-49ab-95d2-506e7ff886b6" absoluteBounds="1.3900000000000001, 1.0350000000000001, 1.4700000000000002, 0.44169108072916663" name="Identifiers" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="6346e74e-8c0c-48c0-8ec3-81727138d09a" absoluteBounds="1.3900000000000001, 1.4866910807291669, 1.4700000000000002, 0.63399251302083326" name="Methods" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </entityShape>
+  </nestedChildShapes>
+</minimalLanguageDiagram>
